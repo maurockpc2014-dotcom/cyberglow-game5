@@ -1,7 +1,7 @@
 const { Telegraf, Markup } = require('telegraf');
 
 // ⚠️ PEGA AQUÍ TU TOKEN REAL DE @BOTFATHER
-const BOT_TOKEN = 'AQUÍ_PEGA_LOS_NÚMEROS_Y_LETRAS_DE_BOTFATHER'; 
+const BOT_TOKEN = '8926676537:AAE-iyTFCkNRB_K29CCTnw5xGKkxBJAlOl8'; 
 const bot = new Telegraf(BOT_TOKEN);
 
 // Enlace de tu juego (Lo obtendrás en el siguiente paso con Render)
