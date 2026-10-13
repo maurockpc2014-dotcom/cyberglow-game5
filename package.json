@@ -1,0 +1,15 @@
+{
+  "name": "cyberglow-syndicate",
+  "version": "1.0.0",
+  "description": "Juego de mineria virtual para Telegram Mini Apps",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js & node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "telegraf": "^4.16.3",
+    "axios": "^1.6.8"
+  }
+}
